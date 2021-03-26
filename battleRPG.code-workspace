@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"cSpell.words": [
+			"ENDC",
+			"OKBLUE",
+			"OKGREEN",
+			"Valos",
+			"bcolors",
+			"cura"
+		]
+	}
+}
